@@ -14,5 +14,8 @@ ingredients:
   - Eieren
   - Kaas
 ---
-M﻿aak de crust (link toevoegen)
+M﻿aak de crust (link toevoegen).
 
+
+
+S﻿nijd de ingredienten ..
