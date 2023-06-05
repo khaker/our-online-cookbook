@@ -6,7 +6,7 @@ tags:
 time: 45 mins
 servings: 8
 ingredients:
-  - Knoflook,Courgette, Spek, Tomaatjes, Room, Eieren, Kaas
+  - Knoflook, Courgette, Spek, Tomaatjes, Room, Eieren, Kaas
 ---
 M﻿aak de crust (link toevoegen)
 
