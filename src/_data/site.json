@@ -1,12 +1,12 @@
 {
   "primaryColor": "#ffdb70",
   "author": "Rumah Gunung",
-  "name": "My Online Cookbook",
+  "name": "Resep Rumah Gunung",
   "searchLabel": "Find recipes by name, tag or ingredients",
   "servingsLabel": "servings",
   "searchContainsLabel": "Contains",
   "secondaryColor": "#32816e",
   "ingredientsLabel": "Ingredients",
-  "metaDescription": "The online cookbook of John Doe",
+  "metaDescription": "The online cookbook of Rumah Gunung",
   "baseURL": "https://myonlinecookbook.netlify.app"
 }
