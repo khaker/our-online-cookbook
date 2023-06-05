@@ -1,6 +1,6 @@
 ---
 layout: layouts/home.njk
-title: Resep
+title: This cookbook belongs to
 authorInTitle: true
 metaTitle: Home
 highlightedTag: Favourite ⭐
