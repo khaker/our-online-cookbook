@@ -13,6 +13,8 @@ ingredients:
   - All-purpose flour
   - Bread flour
   - Fine sea salt
+  - "**Levain:**  * 35g mature sourdough starter * 35g whole wheat flour * 35g
+    all-purpose flour * 70g room temperature water"
 ---
 INGREDIENTS:
 
