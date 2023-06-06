@@ -1,6 +1,8 @@
 ---
 title: " Sourdough Bread"
 image: https://i.ytimg.com/vi/jJpIzr2sCDE/hqdefault.jpg
+tags:
+  - Bread
 time: 24 hours
 servings: 6
 sourceLabel: Joshua Weissman
