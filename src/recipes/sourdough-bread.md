@@ -16,19 +16,19 @@ ingredients:
 ---
 INGREDIENTS:
 
-**Levain:**\
-35g mature sourdough starter\
-35g whole wheat flour
-35g all-purpose flour 
-70g room temperature water 
+**Levain:**
 
-**Dough:**\
-804g good bread flour 
-75g whole wheat flour
-740g water at 90°F (32°C), divided 
-18g fine sea salt
+* 35g mature sourdough starter
+* 35g whole wheat flour
+* 35g all-purpose flour
+* 70g room temperature water
 
+**Dough:**
 
+* 804g good bread flour
+* 75g whole wheat flour
+* 740g water at 90°F (32°C), divided 
+* 18g fine sea salt
 
 INSTRUCTIONS:
 
