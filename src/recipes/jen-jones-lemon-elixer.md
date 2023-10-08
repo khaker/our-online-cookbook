@@ -3,6 +3,7 @@ title: Jen Jones - Lemon Elixer
 image: /img/recipes/pexels-lukas-1414110.jpg
 tags:
   - Favourite ⭐
+time: 6 mins
 sourceURL: https://www.instagram.com/p/Ct7saGEgQEx/
 ingredients:
   - 1﻿ Whole organic lemon
