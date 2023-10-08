@@ -1,6 +1,6 @@
 ---
 title: Jen Jones - Lemon Elixer
-image: /img/recipes/pexels-lukas-1414110.jpg
+image: /img/recipes/pexels-lisa-fotios-1002543.jpg
 tags:
   - Favourite ⭐
 time: 6 mins
