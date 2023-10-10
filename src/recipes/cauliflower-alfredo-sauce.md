@@ -17,4 +17,11 @@ ingredients:
   - Feel free to add a little Dijon mustard, lemon juice, black pepper, oregano,
     or rosemary if desired
 ---
-Cauliflower Alfredo Sauce Recipe: Put all ingredients into a medium pot and bring to a complete boil, then cover and simmer 15 minutes or until the cauliflower is fall-apart tender. Pulverize with either an immersion or regular blender. Serve over pasta, or spaghetti squash, rice, roasted vegetables, or whatever you wish. Makes about 2 cups, and it gets much thicker as it sits.
+**Cauliflower Alfredo Sauce Recipe:**
+
+* Put all ingredients into a medium pot and bring to a complete boil, then cover and simmer 15 minutes or until the cauliflower is fall-apart tender.
+
+* Pulverize with either an immersion or regular blender.
+
+* Serve over pasta, or spaghetti squash, rice, roasted vegetables, or whatever you wish. Makes about 2 cups, and it gets much thicker as it sits.
+
