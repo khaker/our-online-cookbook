@@ -1,6 +1,8 @@
 ---
 title: Vegan Butter Chicken
 image: https://www.noracooks.com/wp-content/uploads/2019/05/IMG_5035.jpg
+tags:
+  - Tink
 time: 40 min
 servings: 4
 sourceLabel: Nora Cooks
